@@ -509,7 +509,7 @@ rule C_STATIC_LIBRARY_LINKER__kernel_
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/sword/ncs/toolchains/e9dba88316/usr/local/bin/cmake --regenerate-during-build -S/home/sword/ncs/ncs-fund/v2.x.x/lesson2/fund_less2_exer1 -B/home/sword/ncs/ncs-fund/v2.x.x/lesson2/fund_less2_exer1/build
+  command = /home/sword/ncs/toolchains/e9dba88316/usr/local/bin/cmake --regenerate-during-build -S/home/sword/ncs/ncs-fund/v2.x.x/lesson2/fund_less2_exer1 -B/home/sword/ncs/ncs-fund-git/ncs_fund/lesson3/fund_less3_exer1/build
   description = Re-running CMake...
   generator = 1
 

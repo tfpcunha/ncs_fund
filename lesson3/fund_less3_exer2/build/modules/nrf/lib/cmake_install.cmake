@@ -39,21 +39,21 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/sword/ncs/ncs-fund/v2.x.x/lesson2/fund_less2_exer1/build/modules/nrf/lib/bin/cmake_install.cmake")
+  include("/home/sword/ncs/ncs-fund-git/ncs_fund/lesson3/fund_less3_exer2/build/modules/nrf/lib/bin/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/sword/ncs/ncs-fund/v2.x.x/lesson2/fund_less2_exer1/build/modules/nrf/lib/flash_patch/cmake_install.cmake")
+  include("/home/sword/ncs/ncs-fund-git/ncs_fund/lesson3/fund_less3_exer2/build/modules/nrf/lib/flash_patch/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/sword/ncs/ncs-fund/v2.x.x/lesson2/fund_less2_exer1/build/modules/nrf/lib/fatal_error/cmake_install.cmake")
+  include("/home/sword/ncs/ncs-fund-git/ncs_fund/lesson3/fund_less3_exer2/build/modules/nrf/lib/fatal_error/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/sword/ncs/ncs-fund/v2.x.x/lesson2/fund_less2_exer1/build/modules/nrf/lib/boot_banner/cmake_install.cmake")
+  include("/home/sword/ncs/ncs-fund-git/ncs_fund/lesson3/fund_less3_exer2/build/modules/nrf/lib/boot_banner/cmake_install.cmake")
 endif()
 

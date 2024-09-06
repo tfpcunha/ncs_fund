@@ -1192,4 +1192,10 @@ zephyr_udc0: &usbd {
  status = "okay";
 };
 # 0 "<command-line>" 2
+# 1 "/home/sword/ncs/ncs-fund-git/ncs_fund/lesson3/fund_less3_exer2/nrf52840dk_nrf52840.overlay" 1
+# 11 "/home/sword/ncs/ncs-fund-git/ncs_fund/lesson3/fund_less3_exer2/nrf52840dk_nrf52840.overlay"
+&uart0 {
+ current-speed = <9600>;
+};
+# 0 "<command-line>" 2
 # 1 "/home/sword/ncs/v2.7.0/zephyr/misc/empty_file.c"

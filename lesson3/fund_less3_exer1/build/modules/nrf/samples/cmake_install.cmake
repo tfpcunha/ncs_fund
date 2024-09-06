@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/sword/ncs/ncs-fund/v2.x.x/lesson2/fund_less2_exer1/build/modules/nrf/samples/common/cmake_install.cmake")
+  include("/home/sword/ncs/ncs-fund-git/ncs_fund/lesson3/fund_less3_exer1/build/modules/nrf/samples/common/cmake_install.cmake")
 endif()
 
