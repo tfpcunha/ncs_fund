@@ -1,0 +1,6 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}/fund_less8_exer1",
+        "${workspaceFolder}/fund_less8_exer2"
+    ]
+}
