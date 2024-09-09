@@ -1,0 +1,8 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}/fund_less6_exer1"
+    ],
+    "files.associations": {
+        "i2c.h": "c"
+    }
+}
