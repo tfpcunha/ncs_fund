@@ -1,0 +1,8 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}/fund_less5_exer1"
+    ],
+    "files.associations": {
+        "uart.h": "c"
+    }
+}
