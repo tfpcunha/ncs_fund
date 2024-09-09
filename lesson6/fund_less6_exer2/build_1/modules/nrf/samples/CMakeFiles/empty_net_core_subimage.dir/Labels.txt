@@ -1,0 +1,13 @@
+# Target labels
+ empty_net_core_subimage
+# Source files and their labels
+/home/sword/ncs/ncs-fund-git/ncs_fund/lesson6/fund_less6_exer2/build_1/modules/nrf/samples/CMakeFiles/empty_net_core_subimage
+/home/sword/ncs/ncs-fund-git/ncs_fund/lesson6/fund_less6_exer2/build_1/modules/nrf/samples/CMakeFiles/empty_net_core_subimage.rule
+/home/sword/ncs/ncs-fund-git/ncs_fund/lesson6/fund_less6_exer2/build_1/modules/nrf/samples/CMakeFiles/empty_net_core_subimage-complete.rule
+/home/sword/ncs/ncs-fund-git/ncs_fund/lesson6/fund_less6_exer2/build_1/modules/nrf/samples/empty_net_core_subimage-prefix/src/empty_net_core_subimage-stamp/empty_net_core_subimage-build.rule
+/home/sword/ncs/ncs-fund-git/ncs_fund/lesson6/fund_less6_exer2/build_1/modules/nrf/samples/empty_net_core_subimage-prefix/src/empty_net_core_subimage-stamp/empty_net_core_subimage-configure.rule
+/home/sword/ncs/ncs-fund-git/ncs_fund/lesson6/fund_less6_exer2/build_1/modules/nrf/samples/empty_net_core_subimage-prefix/src/empty_net_core_subimage-stamp/empty_net_core_subimage-download.rule
+/home/sword/ncs/ncs-fund-git/ncs_fund/lesson6/fund_less6_exer2/build_1/modules/nrf/samples/empty_net_core_subimage-prefix/src/empty_net_core_subimage-stamp/empty_net_core_subimage-install.rule
+/home/sword/ncs/ncs-fund-git/ncs_fund/lesson6/fund_less6_exer2/build_1/modules/nrf/samples/empty_net_core_subimage-prefix/src/empty_net_core_subimage-stamp/empty_net_core_subimage-mkdir.rule
+/home/sword/ncs/ncs-fund-git/ncs_fund/lesson6/fund_less6_exer2/build_1/modules/nrf/samples/empty_net_core_subimage-prefix/src/empty_net_core_subimage-stamp/empty_net_core_subimage-patch.rule
+/home/sword/ncs/ncs-fund-git/ncs_fund/lesson6/fund_less6_exer2/build_1/modules/nrf/samples/empty_net_core_subimage-prefix/src/empty_net_core_subimage-stamp/empty_net_core_subimage-update.rule
